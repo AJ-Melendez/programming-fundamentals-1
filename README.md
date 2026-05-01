@@ -4,4 +4,3 @@ Repository for Programming Fundamentals 1 assignments
  Course: Programming Fundamentals 1
  Semester: Spring 2026
 
-git --version
